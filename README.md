@@ -152,7 +152,7 @@ project/
 
 ## Citation
 
-If you use this work in your research, please cite:
+The methodology used in this repo is mainly based on :
 ```bibtex
 @inproceedings{lerf2023,
   title={LERF: Language Embedded Radiance Fields},
